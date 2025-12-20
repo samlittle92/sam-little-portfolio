@@ -8,6 +8,11 @@ const dmSans = DM_Sans({
   weight: ["400", "500", "700"],
 });
 
+export const metadata = {
+  title: "Sam Little",
+  description: "Product-minded engineer building data-driven software",
+};
+
 export default function RootLayout({
   children,
 }: {
