@@ -14,29 +14,9 @@ export default function Home() {
         </h1>
 
         <p className="text-lg text-gray-600 max-w-3xl leading-relaxed">
-          I’m a product-minded engineer with a first-class bachelor’s degree.
-          I design, build, test, and iterate software systems — from SaaS
-          platforms to data-driven tools — with a strong focus on usability
-          and impact.
+          I’m a product-minded engineer with an honours degree in computer science. I build end-to-end software systems, from SaaS platforms to applied machine learning and analytics tools; with a focus on usability, interpretability, and real-world business impact.
         </p>
 
-        {/* CTA */}
-        <div className="flex items-center gap-4">
-          <Link
-            href="https://github.com/samlittle92"
-            target="_blank"
-            className="
-              inline-flex items-center gap-2
-              rounded-full border border-gray-300
-              px-5 py-2 text-sm font-medium
-              text-gray-700
-              hover:bg-gray-100 transition
-            "
-          >
-            <FaGithub className="h-4 w-4" />
-            GitHub
-          </Link>
-        </div>
       </div>
 
       {/* GitHub activity */}

@@ -11,7 +11,7 @@ export default function ProjectsScroller() {
     >
       <ProjectPanel
         title="Reading Comprehension Assistant"
-        description="An AI-powered tool designed, tested, and refined with real teachers to generate and analyse reading comprehension tasks."
+        description="An AI-powered tool designed, tested, and refined with real teachers to generate and reading comprehension tasks."
       />
 
       <ProjectPanel
