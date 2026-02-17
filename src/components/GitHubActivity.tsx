@@ -3,8 +3,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function GitHubActivity() {
   return (
-    <section className="space-y-6 rounded-2xl border border-gray-200 bg-white p-8">
-
+    <section className="space-y-6 rounded-2xl bg-white p-10 shadow-[0_1px_3px_rgba(0,0,0,0.06)] ring-1 ring-gray-200/60">
       <h2 className="text-xl font-semibold">
         Building consistently
       </h2>
@@ -34,7 +33,7 @@ export default function GitHubActivity() {
       </div>
 
       {/* GitHub contribution squares */}
-      <div className="overflow-hidden rounded-xl border border-gray-100 bg-white p-4">
+      <div className="rounded-xl border border-gray-100 bg-white p-4">
         <img
           src="https://ghchart.rshah.org/samlittle92"
           alt="GitHub contribution squares"

@@ -7,13 +7,13 @@ export default function Home() {
     <section className="space-y-10">
 
       {/* Hero */}
-      <div className="space-y-6">
-        <h1 className="text-4xl md:text-5xl font-bold tracking-tight max-w-4xl">
+     <div className="max-w-3xl">
+      <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
           I build intelligent software products that combine data,
           machine learning, and real-world user needs.
-        </h1>
+      </h1>
 
-        <p className="text-lg text-gray-600 max-w-3xl leading-relaxed">
+        <p className="mt-6 text-lg text-gray-700 leading-relaxed">
           I’m a product-minded engineer with an honours degree in computer science. I build end-to-end software systems, from SaaS platforms to applied machine learning and analytics tools; with a focus on usability, interpretability, and real-world business impact.
         </p>
 
