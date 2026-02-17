@@ -2,7 +2,7 @@ import ProjectPanel from "@/components/ProjectPanel";
 
 export default function ProjectsPage() {
   return (
-    <section className="py-28">
+    <section className="pt-8 pb-24">
       <div className="max-w-6xl mx-auto px-6 lg:px-8 space-y-20">
 
         {/* Header */}
