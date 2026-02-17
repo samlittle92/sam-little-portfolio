@@ -21,10 +21,10 @@ export default function ProjectsPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
 
           <ProjectPanel
-            title="Root Cause Analysis System"
+            title="Reading Comprehension Assistant (RCA)"
             status="Completed"
-            description="A structured diagnostic framework designed to identify, analyse, and resolve complex system-level failures."
-            tags={["Systems Design", "Analysis", "Engineering"]}
+            description="The Reading Comprehension Assistant (RCA) is a research-backed generative AI system designed to address workload pressures in multilingual primary classrooms. It generates levelled reading passages, editable comprehension questions, and print-ready formative assessment materials through controlled prompt engineering and a structured SDLC-based architecture. Evaluated through usability testing with five practising teachers, the system demonstrated measurable improvements in planning efficiency while preserving teacher agency and pedagogical alignment. The project bridges academic research and production-ready AI system design."
+            tags={["Generative AI", "Prompt Engineering", "Formative Assessment", "Gemini API", "PDF Export", "Usability Testing", "EdTech", "Human-Centered Design"]}
             link="/projects/rca"
           />
 
